@@ -1,7 +1,4 @@
-﻿using System;
-using System.Threading;
-
-public class SplashScreenService : ISplashScreenService
+﻿public class SplashScreenService : ISplashScreenService
 {
     static Random rand = new Random();
 

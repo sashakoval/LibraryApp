@@ -1,8 +1,4 @@
-﻿
-
-using LibraryApp.Builders;
-
-namespace LibraryApp.Models
+﻿namespace LibraryApp.Models
 {
     public class Book
     {

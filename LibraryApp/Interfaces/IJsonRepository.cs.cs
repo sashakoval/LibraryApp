@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-
-namespace LibraryApp.Repositories
+﻿namespace LibraryApp.Repositories
 {
     public interface IJsonRepository
     {

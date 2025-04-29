@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-
-namespace LibraryApp.Services
+﻿namespace LibraryApp.Services
 {
     public interface IMenuService
     {

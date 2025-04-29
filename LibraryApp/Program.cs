@@ -7,7 +7,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        // Define the path to the "shelf" folder
+        // Define the path to the "Shelf" folder
         string projectRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "..", ".."));
         string libraryPath = Path.Combine(projectRoot, "Shelf", "library.json");
 
